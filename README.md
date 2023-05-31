@@ -1,0 +1,1 @@
+As Public OCI images are not available on [https://github.com/IBM/staticroute-operator](https://github.com/IBM/staticroute-operator) this github action makes it possible.
